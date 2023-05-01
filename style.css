@@ -1,0 +1,30 @@
+.navbar-brand{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-brand h4{
+    margin: 0%;
+    margin-left: 5px;
+    font-size: 16px;
+}
+
+
+.nav-item{
+    padding: 20px 15px !important;
+    font-weight: 500 ;
+    text-transform: uppercase;
+    color: #05364d;
+    font-size: 13px;
+    display: inline-block;
+}
+
+
+.nav-link:hover{
+    color: #efb6df !important;
+}
+
+.active{
+    color: #efb6df !important;
+}
